@@ -149,8 +149,6 @@ if (event_chk){
   }
 }
 
-  
-// 주석이지롱
 
 if(event_chk2){
   
